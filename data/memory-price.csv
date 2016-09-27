@@ -1,0 +1,287 @@
+,date,driveInfo,sizeInMb,cost,dollarsPerGb
+0,1980 January,Morrow Designs,26.0,5000.0,193000.0
+1,1980 July,North Star,18.0,4199.0,233000.0
+2,1981 September,Apple,5.0,3500.0,700000.0
+3,1981 November,Seagate,5.0,1700.0,340000.0
+4,1981 December,VR Data Corp.,6.3,2895.0,460000.0
+5,1981 December,Morrow Designs,10.0,2999.0,300000.0
+6,1981 December,Morrow Designs,10.0,2949.0,295000.0
+7,1981 December,VR Data Corp.,19.0,5495.0,289000.0
+8,1981 December,Morrow Designs,20.0,3829.0,191000.0
+9,1981 December,Morrow Designs,26.0,3949.0,152000.0
+10,1981 December,Morrow Designs,26.0,3599.0,138000.0
+11,1982 March,Xebec,,,260000.0
+12,1983 December,Corvus,6.0,1895.0,316000.0
+13,1983 December,Corvus,10.0,2695.0,270000.0
+14,1983 December,Xcomp,10.0,1895.0,190000.0
+15,1983 December,Corvus,20.0,3495.0,175000.0
+16,1983 December,Davong,10.0,1650.0,165000.0
+17,1983 December,Xcomp,16.0,2095.0,131000.0
+18,1983 December,Davong,21.0,2495.0,119000.0
+19,1984 March,Percom/Tandon,5.0,1399.0,280000.0
+20,1984 March,,5.0,1349.0,270000.0
+21,1984 March,Percom/Tandon,10.0,1699.0,170000.0
+22,1984 March,,10.0,1599.0,160000.0
+23,1984 March,Percom/Tandon,15.0,2095.0,140000.0
+24,1984 March,,15.0,1999.0,133000.0
+25,1984 March,Percom/Tandon,20.0,2399.0,120000.0
+26,1984 March,,20.0,2359.0,118000.0
+27,1984 May,Tecmar,5.0,1495.0,299000.0
+28,1984 May,Corvus,6.0,1695.0,283000.0
+29,1984 May,Corvus,11.0,2350.0,214000.0
+30,1984 May,Comrex,10.0,1995.0,200000.0
+31,1984 May,CTI,11.0,1995.0,181000.0
+32,1984 May,Davong,10.0,1645.0,165000.0
+33,1984 May,Corvus,20.0,3150.0,158000.0
+34,1984 May,Davong,15.0,2095.0,140000.0
+35,1984 May,Davong,21.0,2495.0,119000.0
+36,1984 May,Pegasus (Great Lakes),10.0,1075.0,108000.0
+37,1984 May,Pegasus (Great Lakes),23.0,1845.0,80000.0
+38,1985 July,First Class Peripherals,10.0,710.0,71000.0
+39,1987 October,Iomega,10.0,899.0,90000.0
+40,1987 October,Iomega,20.0,1199.0,60000.0
+41,1987 October,Iomega,40.0,1799.0,45000.0
+42,1988 May,,20.0,799.0,40000.0
+43,1988 May,,30.0,995.0,33000.0
+44,1988 May,,45.0,1195.0,27000.0
+45,1988 May,,60.0,1795.0,30000.0
+46,1988 May,,250.0,3995.0,16000.0
+47,1989 March,Western Digital,20.0,899.0,53000.0
+48,1989 March,Western Digital,40.0,1199.0,36000.0
+49,1989 September,,,,12000.0
+50,1990 September,,,,9000.0
+51,1991 September,,,,7000.0
+52,1992 September,,,,4000.0
+53,1993 September,,,,2000.0
+54,1994 September,,,,950.0
+55,1995 January,Seagate,1000.0,849.0,850.0
+56,1995 January,Seagate,1700.0,1499.0,880.0
+57,1995 January,Seagate,2100.0,1699.0,810.0
+58,1995 January,Seagate,2900.0,2899.0,990.0
+59,1995 April,,240.0,250.0,1260.0
+60,1995 April,,420.0,320.0,922.0
+61,1995 April,,520.0,380.0,884.0
+62,1995 April,,850.0,470.0,669.0
+63,1995 April,,1000.0,625.0,756.0
+64,1995 April,,1200.0,680.0,686.0
+65,1996 June 10,Western Digital,1600.0,399.99,295.0
+66,1996 August 14,IBM,1760.0,379.99,263.0
+67,1996 August 14,Maxtor,2000.0,439.99,259.0
+68,1996 September,Quantum,2500.0,440.0,207.0
+69,1996 September,Quantum,3200.0,469.0,173.0
+70,1997 August 13,Western Digital,2100.0,329.99,181.0
+71,1997 August 13,Western Digital,3100.0,399.99,148.0
+72,1997 August 13,Western Digital,4000.0,490.99,141.0
+73,1997 August 24,Western Digital,2100.0,279.99,153.0
+74,1997 August 24,Western Digital,3100.0,329.99,122.0
+75,1997 August 24,Maxtor,3500.0,359.99,118.0
+76,1997 August 24,Maxtor,4300.0,439.99,118.0
+77,1997 August 24,Western Digital,5100.0,459.99,104.0
+78,1997 September 5,Maxtor,7000.0,669.99,110.0
+79,1997 November 29,Western Digital,3200.0,289.0,104.0
+80,1997 November 29,Quantum,3200.0,285.0,102.0
+81,1997 November 29,Quantum,4300.0,379.0,101.0
+82,1997 November 29,Western Digital,4300.0,365.0,97.6
+83,1997 November 29,Quantum,6400.0,475.0,85.4
+84,1997 November 29,Western Digital,6400.0,445.0,80.0
+85,1997 December 3,Western Digital,5100.0,449.99,101.0
+86,1997 December 3,Quantum,6400.0,549.99,98.8
+87,1997 December 3,Maxtor,5200.0,438.99,97.1
+88,1997 December 3,Maxtor,7000.0,579.99,95.3
+89,1997 December 3,Maxtor,8400.0,679.99,93.1
+90,1998 January 16,Western Digital,6400.0,529.99,95.2
+91,1998 January 16,Quantum,4300.0,349.99,93.6
+92,1998 January 16,Quantum,6400.0,479.99,86.3
+93,1998 January 16,Maxtor,8400.0,,83.9
+94,1998 February 3,,5200.0,355.0,78.5
+95,1998 February 3,,6400.0,435.0,78.2
+96,1998 April 2,Maxtor,5100.0,379.99,85.7
+97,1998 April 2,Maxtor,4300.0,319.99,85.6
+98,1998 April 2,Western Digital,6400.0,,74.3
+99,1998 April 2,Quantum,6400.0,339.99,61.1
+100,1998 April 4,,5200.0,349.0,77.2
+101,1998 April 4,Maxtor,4300.0,,76.3
+102,1998 April 4,,6400.0,370.0,66.5
+103,1998 April 4,,5200.0,300.0,66.3
+104,1998 April 4,,9000.0,499.0,63.8
+105,1998 April 17,Fujitsu,4300.0,282.0,75.4
+106,1998 April 17,Fujitsu,5200.0,331.0,73.2
+107,1998 April 17,Fujitsu,6400.0,368.0,66.1
+108,1998 May 2,Seagate,6400.0,349.99,62.9
+109,1998 May 9,Seagate,6400.0,329.99,59.3
+110,1998 May 11,Fujitsu,3200.0,227.0,81.6
+111,1998 May 11,Fujitsu,4300.0,257.0,68.7
+112,1998 May 11,Fujitsu,5200.0,299.0,66.1
+113,1998 May 11,Fujitsu,6400.0,328.0,58.9
+114,1998 June 6,Maxtor,5700.0,299.99,60.5
+115,1998 June 12,Quantum,4300.0,228.0,61.0
+116,1998 June 12,Quantum,6400.0,298.0,53.5
+117,1998 July 15,,5200.0,249.0,55.1
+118,1998 July 31,Western Digital IDE,5100.0,262.0,59.1
+119,1998 July 31,Fujitsu IDE,5200.0,252.0,55.7
+120,1998 July 31,Western Digital IDE,6400.0,294.0,52.8
+121,1998 July 31,Western Digital IDE,8400.0,382.0,52.3
+122,1998 July 31,Fujitsu IDE,6400.0,291.0,52.3
+123,1998 August 1,Western Digital EIDE,4000.0,,54.6
+124,1998 August 6,Western Digital EIDE,5100.0,,46.4
+125,1998 August 14,Fujitsu,6400.0,289.0,51.9
+126,1998 August 26,Seagate,6400.0,279.99,50.3
+127,1998 September 1,Maxtor UDMA,8400.0,379.99,52.0
+128,1998 September 1,Maxtor UDMA,6800.0,279.99,47.4
+129,1998 September 10,Western Digital EIDE,5100.0,,47.9
+130,1998 October 1,Quantum,6400.0,,42.6
+131,1999 February 12,Quantum,8000.0,299.99,43.1
+132,1999 February 26,Maxtor,8400.0,,37.7
+133,1999 February 26,Quantum,8000.0,,36.5
+134,1999 February 27,Quantum,19200.0,512.46,30.7
+135,1999 March 1,Fujitsu Ultra DMA,8400.0,253.0,34.6
+136,1999 March 1,Fujitsu Ultra DMA,10200.0,299.0,33.7
+137,1999 March 3,Fujitsu Ultra DMA,8400.0,235.0,32.2
+138,1999 March 3,Fujitsu Ultra DMA,10200.0,285.0,32.1
+139,1999 April 1,Fujitsu UDMA,10200.0,279.0,31.5
+140,1999 April 1,Fujitsu UDMA,8400.0,229.0,31.4
+141,1999 May 21,Fujitsu UDMA,6400.0,179.99,32.3
+142,1999 May 27,Fujitsu UDMA,10200.0,245.0,27.6
+143,1999 May 27,Fujitsu UDMA,8400.0,198.0,27.1
+144,1999 May 27,Fujitsu UDMA,17300.0,369.0,24.5
+145,1999 May 28,Maxtor UDMA,10000.0,249.99,28.8
+146,1999 July 21,Maxtor Ultra DMA,8400.0,199.99,27.4
+147,1999 July 30,Fujitsu UDMA,6400.0,139.99,26.3
+148,1999 September 25,,10200.0,,18.5
+149,1999 October 1,Quantum CX UTA 66,10200.0,199.0,22.4
+150,1999 October 1,Quantum KA 7200 rpm,13600.0,249.0,21.1
+151,1999 October 1,Western Digital,20000.0,359.0,20.6
+152,1999 October 1,Western Digital 7200 rpm,27300.0,489.0,20.6
+153,1999 October 1,Quantum CX UTA 66,13600.0,219.0,18.5
+154,1999 December 1,Western Digital IDE,20500.0,398.0,22.3
+155,1999 December 1,Quantum IDE,18200.0,348.0,22.0
+156,1999 December 1,,10200.0,189.0,21.3
+157,1999 December 1,Fujitsu IDE,10200.0,189.0,21.3
+158,1999 December 1,Fujitsu IDE,13000.0,208.0,18.4
+159,1999 December 1,,13000.0,195.0,17.3
+160,1999 December 1,Fujitsu IDE,20400.0,299.0,16.9
+161,1999 December 1,Fujitsu IDE,17300.0,248.0,16.5
+162,1999 December 1,Fujitsu IDE,27300.0,388.0,16.3
+163,1999 December 1,,17300.0,225.0,15.0
+164,2000 February 1,,10200.0,175.0,19.7
+165,2000 February 1,Fujitsu,20400.0,299.0,16.9
+166,2000 February 1,Fujitsu,13600.0,199.0,16.8
+167,2000 February 1,,12900.0,187.99,16.8
+168,2000 February 1,Fujitsu,13600.0,197.8,16.7
+169,2000 February 1,,13000.0,186.0,16.5
+170,2000 February 1,Fujitsu,17300.0,238.0,15.8
+171,2000 February 1,Fujitsu,27300.0,375.0,15.8
+172,2000 February 1,Fujitsu,17300.0,232.3,15.4
+173,2000 February 1,,17300.0,215.0,14.3
+174,2000 February 1,,20400.0,211.99,12.0
+175,2000 April 1,IBM,20500.0,279.0,15.7
+176,2000 April 1,Maxtor,15200.0,199.0,15.1
+177,2000 April 1,Maxtor 7200 rpm,20000.0,259.0,14.9
+178,2000 April 1,Maxtor UDMA,15000.0,192.0,14.7
+179,2000 April 1,Seagate UDMA,17200.0,218.0,14.6
+180,2000 April 1,Seagate UDMA,28000.0,349.0,14.3
+181,2000 April 1,,17300.0,215.0,14.3
+182,2000 April 1,IBM UDMA 5400 rpm,20300.0,245.0,13.9
+183,2000 April 1,Maxtor UDMA,17000.0,204.0,13.8
+184,2000 April 1,Maxtor 7200 rpm,27000.0,320.0,13.6
+185,2000 April 1,,20400.0,239.0,13.5
+186,2000 April 1,Maxtor UDMA,36500.0,411.0,13.0
+187,2000 April 1,Maxtor UDMA,27000.0,299.0,12.7
+188,2000 April 1,Western Digital UDMA,20000.0,218.0,12.5
+189,2000 April 1,Maxtor UDMA,20000.0,217.0,12.5
+190,2000 April 1,Maxtor UDMA,30000.0,308.0,11.8
+191,2000 May 12,Western Digital Ultra ATA/66 5400 rpm,13600.0,179.99,15.2
+192,2000 May 12,Maxtor UDMA/66 7200 rpm,30000.0,319.99,12.3
+193,2000 May 12,Maxtor UDMA/66 7200 rpm,40000.0,399.99,11.5
+194,2000 June 2,Maxtor UDMA/66 5400 rpm,15000.0,189.99,14.6
+195,2000 August 1,Samsung,15000.0,162.0,12.4
+196,2000 August 1,Maxtor IDE 7200rpm,30500.0,298.0,11.2
+197,2000 August 1,Samsung,20000.0,175.0,10.1
+198,2000 August 19-20,Maxtor 7200rpm 9ms,40900.0,388.0,10.9
+199,2000 August 19-20,Maxtor 5400rpm,15300.0,144.0,10.8
+200,2000 August 19-20,Maxtor 7200rpm 9ms,30700.0,278.0,10.4
+201,2000 August 19-20,Maxtor 5400rpm,20400.0,164.0,9.25
+202,2000 August 19-20,Maxtor 5400rpm,30700.0,214.0,8.02
+203,2000 August 25,Maxtor 5400rpm,15000.0,149.99,11.5
+204,2000 August 25,Maxtor 7200rpm,40000.0,349.99,10.1
+205,2000 August 25,Maxtor 7200rpm UDMA/66,30000.0,249.99,9.58
+206,2000 October 27,Maxtor 7200rpm,30700.0,244.0,9.17
+207,2000 October 27,Maxtor 7200rpm,40900.0,318.0,8.93
+208,2000 October 27,Maxtor 5400rpm,61400.0,398.0,7.46
+209,2000 October 27,Maxtor 5400rpm,81900.0,518.0,7.3
+210,2000 October 27,Maxtor 5400rpm,30700.0,194.0,7.25
+211,2000 October 27,Maxtor 5400rpm,40900.0,254.0,7.14
+212,2000 November 1,Maxtor 7200rpm UDMA/66,30000.0,,7.87
+213,2000 December 13,Samsung,30000.0,189.0,7.25
+214,2000 December 20,Maxtor Ultra ATA 66 5400 rpm,80000.0,479.99,6.9
+215,2001 January 14,5400 rpm,61000.0,388.0,7.3
+216,2001 January 14,5400 rpm,82000.0,518.0,7.25
+217,2001 January 14,5400 rpm,40000.0,238.0,6.85
+218,2001 April 25,Quantum 7200 rpm,40000.0,260.0,7.46
+219,2001 April 25,Fujitsu 5400 rpm UDMA-100,30000.0,169.0,6.49
+220,2001 April 25,Fujitsu 5400 rpm UDMA-100,40000.0,199.0,5.71
+221,2001 May 1,5400 rpm,30000.0,178.0,6.8
+222,2001 May 1,5400 rpm,82000.0,468.0,6.58
+223,2001 May 1,5400 rpm,61000.0,344.0,6.49
+224,2001 May 1,5400 rpm,40000.0,204.0,5.85
+225,2001 June 28,Western Digital 7200 rpm EIDE,40000.0,219.99,6.33
+226,2001 July 6,Maxtor UATA 7200 rpm,60000.0,329.99,6.33
+227,2001 July 20,Western Digital 7200 rpm UATA,80000.0,,5.75
+228,2001 August 31,Western Digital 7200 rpm UATA,60000.0,,4.41
+229,2001 November 30,Western Digital 7200 rpm EIDE UATA-100,100000.0,,2.99
+230,2001 December 1,Maxtor 5400 rpm IDE,40000.0,158.88,4.57
+231,2002 March 8,Western Digital 5400 rpm EIDE Ultra ATA-100,40000.0,149.99,4.31
+232,2002 July 27,Maxtor 7200 rpm IDE,40000.0,128.88,3.7
+233,2002 August 9,Western Digital 7200 rpm EIDE Ultra ATA-100,100000.0,229.99,2.65
+234,2002 August 16,Western Digital 7200 rpm Ultra ATA-100,60000.0,149.99,2.87
+235,2002 August 16,Maxtor 7200 rpm EIDE Ultra ATA-133/100,80000.0,259.99,3.73
+236,2002 August 23,Western Digital 5400 rpm EIDE Ultra ATA-100,40000.0,89.99,2.59
+237,2002 August 30,Western Digital 7200 rpm EIDE Ultra ATA-100,100000.0,179.99,2.07
+238,2002 September 6,Western Digital 7200 rpm,120000.0,269.99,2.59
+239,2002 September 6,Western Digital 7200 rpm EIDE,40000.0,99.99,2.87
+240,2002 September 20,Western Digital 5400 rpm EIDE Ultra ATA-100,40000.0,89.99,2.59
+241,2002 September 20,Western Digital 7200 rpm Ultra ATA-100,60000.0,139.99,2.68
+242,2003 October 11,Maxtor 7200 rpm IDE,40000.0,89.88,2.58
+243,2003 October 11,Maxtor 7200 rpm IDE,120000.0,158.0,1.52
+244,2003 November 29,Maxtor Serial ATA,80000.0,134.0,1.93
+245,2003 November 29,Western Digital SMB cache,80000.0,124.0,1.78
+246,2003 November 29,Maxtor Serial ATA,120000.0,168.0,1.61
+247,2003 November 29,Western Digital SMB cache,120000.0,158.0,1.52
+248,2003 November 29,Maxtor 7200 rpm IDE,80000.0,98.88,1.42
+249,2003 November 29,Maxtor 7200 rpm IDE,120000.0,144.88,1.39
+250,2004 March 27,Western Digital Caviar 7200rpm,160000.0,269.99,1.94
+251,2004 March 27,Cicero 7200rpm,160000.0,269.95,1.94
+252,2004 March 27,Western Digital 7200rpm,250000.0,369.99,1.7
+253,2004 March 27,Western Digital,80000.0,109.0,1.57
+254,2004 March 27,Maxtor 7200rpm IDE,80000.0,98.0,1.41
+255,2004 March 27,Western Digital,120000.0,144.0,1.38
+256,2004 March 27,Maxtor 7200rpm IDE,120000.0,129.0,1.24
+257,2004 April 2,Western Digital Caviar 7200rpm 4.2ms avg. seek time,160000.0,169.99,1.22
+258,2004 April 16,Western Digital Caviar SE 7200rpm,250000.0,249.99,1.15
+259,2004 December 4,"Barracuda 7200.8 400GB, 7200RPM, Internal ATA/100",400000.0,280.0,0.7
+260,2004 December 9,"250GB, 7200RPM, Internal ATA/133 Hard Drive",250000.0,180.0,0.72
+261,2005 August 29,"400GB, 7200RPM, Internal ATA/100 Hard Drive",400000.0,300.0,0.75
+262,2005 August 29,"Ultra16 250GB, 7200RPM, Internal ATA/133",250000.0,160.0,0.64
+263,2005 December 12,Hitachi Deskstar 7K250 250GB Hard Drive,250000.0,130.0,0.52
+264,2005 December 12,Seagate Barracuda 200GB Hard Drive,200000.0,140.0,0.7
+265,2006 July 5,Maxtor Ultra16 300GB Hard Drive,300000.0,150.0,0.5
+266,2006 July 5,Seagate Barracuda 7200.9 500GB Hard Drive,500000.0,300.0,0.6
+267,2006 December 27,Western Digital Caviar SE16 250GB Hard Drive,250000.0,140.0,0.56
+268,2006 December 27,Samsung 80GB Hard Drive,80000.0,35.0,0.44
+269,2007 June 24,Seagate 250GB Hard Drive,250000.0,100.0,0.4
+270,2007 June 24,Seagate 160GB Hard Drive,160000.0,70.0,0.44
+271,2008 January 13,Seagate Barracuda 7200.10 750GB,750000.0,200.0,0.27
+272,2008 January 13,Beyond Micro Monster Mobile 1TB,1000000.0,270.0,0.27
+273,2008 July 20,Hitachi - DeskStar 750GB Internal Hard Drive Model OA34914 SKU: 8295793,750000.0,133.99,0.18
+274,2008 July 20,Western Digital - Caviar GP 500GB Internal Hard Drive Model: WD5000CSRTL SKU: 8682311,500000.0,89.99,0.18
+275,2009 July 24,HITACHI 0A38016 7200 RPM SATA 3.0Gb/s,1000000.0,74.99,0.07
+276,2010 January 2,Hitachi 1 TB Deskstar SATA 7200 RPM 32 MB Cache Internal Hard Drive HD31000 IDK/7K,1000000.0,69.99,0.07
+277,2010 August 31,"Seagate Barracuda 7200.11 ST31500341AS 1.5TB 7200 RPM SATA 3.0Gb/s 3.5"" Internal Hard Drive",1500000.0,84.99,0.06
+278,2010 August 31,"Western Digital Caviar Green WD20EARS 2TB SATA 3.0Gb/s 3.5"" Internal Hard Drive -Bare Drive",2000000.0,119.99,0.06
+279,2011 March 8,"Seagate Barracuda 7200.11 ST31500341AS 1.5TB 7200 RPM SATA 3.0Gb/s 3.5"" Internal Hard Drive -Bare Drive",1500000.0,69.99,0.05
+280,2011 March 8,"Western Digital Caviar Green WD20EARS 2TB SATA 3.0Gb/s 3.5"" Internal Hard Drive -Bare Drive",2000000.0,79.99,0.04
+281,2012 March 19,Seagate Barracuda Green 2TB SATA 6Gb/s 64MB Cache 3.5-Inch Internal Bare Drive ST2000DL003,2000000.0,94.99,0.05
+282,2013 March 17,Seagate Barracuda 2 TB HDD SATA 6 Gb/s NCQ 64MB Cache 3.5-Inch Internal Bare Drive ST2000DM001,2000000.0,74.99,0.04
+283,2013 March 17,"WD Red 3 TB NAS Hard Drive: 3.5 Inch, SATA III, 64 MB Cache - WD30EFRX",3000000.0,159.91,0.05
+284,2014 March 4,"TOSHIBA DT01ACA300 3TB 7200 RPM 64MB Cache SATA 6.0Gb/s 3.5"" Internal Hard Drive Bare Drive",3000000.0,99.99,0.03
+285,2014 March 4,"Western Digital WD Green WD20EZRX 2TB IntelliPower 64MB Cache SATA 6.0Gb/s 3.5"" Internal Hard Drive Bare Drive",2000000.0,89.99,0.04
