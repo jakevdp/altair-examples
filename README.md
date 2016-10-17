@@ -11,3 +11,4 @@ All notebooks are in the [notebooks](notebooks/) directory; click on any image t
 [<img src="images/Storage.png" height=150>](notebooks/PriceOfStorage.ipynb)
 [<img src="images/Strikeouts.png" height=150>](notebooks/MLB_Strikeouts.ipynb )
             
+If you have any visualization you would like to contribute, please feel free to open a Pull Request!
