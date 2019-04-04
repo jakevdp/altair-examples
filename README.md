@@ -9,6 +9,7 @@ All notebooks are in the [notebooks](notebooks/) directory; click on any image t
 [<img src="images/Marathon.png" height=150>](notebooks/MarathonData.ipynb)
 [<img src="images/Measles.png" height=150>](notebooks/Measles.ipynb)
 [<img src="images/Storage.png" height=150>](notebooks/PriceOfStorage.ipynb)
-[<img src="images/Strikeouts.png" height=150>](notebooks/MLB_Strikeouts.ipynb )
+[<img src="images/Strikeouts.png" height=150>](notebooks/MLB_Strikeouts.ipynb)
+[<img src="images/PulsarPlot.png" height=150>](notebooks/PulsarPlot.ipynb)
             
 If you have any visualization you would like to contribute, please feel free to open a [Pull Request](https://github.com/jakevdp/altair-examples/pulls)!
